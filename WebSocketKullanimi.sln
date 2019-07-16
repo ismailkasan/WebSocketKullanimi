@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebSocketKullanimi", "WebSocketKullanimi.csproj", "{AFDF0983-4FA0-462F-91C6-F63C15D8456E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDF0983-4FA0-462F-91C6-F63C15D8456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDF0983-4FA0-462F-91C6-F63C15D8456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDF0983-4FA0-462F-91C6-F63C15D8456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDF0983-4FA0-462F-91C6-F63C15D8456E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62B1B49-A5F4-46AB-8B7C-A80B41AFE3DA}
+	EndGlobalSection
+EndGlobal

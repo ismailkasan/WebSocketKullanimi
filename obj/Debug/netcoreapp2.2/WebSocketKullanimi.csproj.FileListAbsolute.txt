@@ -1,0 +1,14 @@
+C:\Users\impar\source\research\WebSocketKullanimi\bin\Debug\netcoreapp2.2\WebSocketKullanimi.deps.json
+C:\Users\impar\source\research\WebSocketKullanimi\bin\Debug\netcoreapp2.2\WebSocketKullanimi.runtimeconfig.json
+C:\Users\impar\source\research\WebSocketKullanimi\bin\Debug\netcoreapp2.2\WebSocketKullanimi.runtimeconfig.dev.json
+C:\Users\impar\source\research\WebSocketKullanimi\bin\Debug\netcoreapp2.2\WebSocketKullanimi.dll
+C:\Users\impar\source\research\WebSocketKullanimi\bin\Debug\netcoreapp2.2\WebSocketKullanimi.pdb
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.csprojAssemblyReference.cache
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.RazorAssemblyInfo.cache
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.RazorAssemblyInfo.cs
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.AssemblyInfoInputs.cache
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.AssemblyInfo.cs
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.RazorTargetAssemblyInfo.cache
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.dll
+C:\Users\impar\source\research\WebSocketKullanimi\obj\Debug\netcoreapp2.2\WebSocketKullanimi.pdb
